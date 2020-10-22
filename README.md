@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Sujiny-tech's github stats](https://github-readme-stats.vercel.app/api?username=sujiny-tech&show_icons=true&theme=radical&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujiny-tech&layout=compact)](https://github.com/sujiny-tech/github-readme-stats)
+
+![Sujiny-tech's github stats](https://github-readme-stats.vercel.app/api?username=sujiny-tech&show_icons=true&theme=radical&show_icons=true)
