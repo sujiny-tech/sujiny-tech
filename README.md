@@ -9,6 +9,13 @@
 <p align="center"><a href="https://github.com/sujiny-tech" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:sujiny2222@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>   
    
 
+   
+<div align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujiny-tech&count_bg=%23ADC5E3&title_bg=%235C72AC&icon=&icon_color=%23E7E7E7&title=hits+%3A%29&edge_flat=false"/></a>
+</div>   
+   
+   
+   
+   
 <!--
 **sujiny-tech/sujiny-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,8 +43,4 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujiny-tech&layout=compact"></p>  
    
-   
-<div align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsujiny-tech&count_bg=%23ADC5E3&title_bg=%235C72AC&icon=&icon_color=%23E7E7E7&title=hits+%3A%29&edge_flat=false"/></a>
-</div>   
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&amp;color=A5CFE1&amp;height=200&amp;section=footer&amp;fontSize=90"</p>
